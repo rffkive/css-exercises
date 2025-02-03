@@ -16,7 +16,12 @@ img {
 
 .container {
   display: flex;
-  margin: 52px;
+  justify-content: center;
+  gap: 52px;
+}
+
+.content {
+  max-width: 200px;
 }
 
 /* do not edit this footer */
